@@ -9,10 +9,10 @@ from "react-bootstrap";
 
 const NavbarComponent = () => {
     return (
-        <Navbar bg="dark" variant="dark" expand="lg">
+        <Navbar variant="dark" expand="lg">
         <Container>
         <Navbar.Brand href="#home">
-            React - Bootstrap
+            <strong> Kasir </strong>APP
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
