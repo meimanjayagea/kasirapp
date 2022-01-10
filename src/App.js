@@ -16,7 +16,7 @@ function App() {
                         <ListCategory/>
                         <Col>
                             <h4>
-                                <strong>Daftar Product sdsdsd</strong>
+                                <strong>Daftar Product </strong>
                             </h4>
                             <hr/>
                         </Col>
